@@ -34,7 +34,7 @@ namespace cheat_sheet
             /* komentar */        //      gør alt fra /* til */ til en komentar
 
             
-
+            tryout int værdiTryout = new tryout("Mazda", "red", 1000000, 88, 6, 320, true ) // ikke færdi
            
 
 

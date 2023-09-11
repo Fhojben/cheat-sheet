@@ -70,7 +70,7 @@ namespace cheat_sheet
             
             }
 
-            // FIND FEJL-----------------------------
+            // FIND FEJL
 
             // hvis der bliver fundet en fejl køre den fra toppen af try igen intil at det virker.
             try // kør den her kode
